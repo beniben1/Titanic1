@@ -1,0 +1,30 @@
+By class:
+Class 1: 62.96296% survived
+Class 2: 47.282608% survived
+Class 3: 24.236254% survived
+
+By gender:
+male: 18.890814% survived
+female: 74.20382% survived
+
+By age group:
+Passengers of ages 0 - 10: 37.3444% survived
+Passengers of ages 11 - 20: 41.0% survived
+Passengers of ages 21 - 30: 35.0% survived
+Passengers of ages 31 - 40: 43.712574% survived
+Passengers of ages 41 - 50: 38.202248% survived
+Passengers of ages 51+ : 36.486485% survived
+
+By with VS without family:
+With family: 50.564976% survived
+Without family: 30.353817% survived
+
+By fare range:
+Passengers who paid 0 - 10 pounds: 19.940475% survived
+Passengers who paid 11 - 30 pounds: 43.636364% survived
+Passengers who paid 31+  pounds: 58.22222% survived
+
+By port:
+Passengers who embarked on port C: 55.35714% survived
+Passengers who embarked on port Q: 38.961037% survived
+Passengers who embarked on port S: 33.695652% survived

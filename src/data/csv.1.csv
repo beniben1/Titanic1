@@ -1,0 +1,59 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+691,1,1, Albert Adrian Dick,male,31.0,1,0,17474,57.0,B20,S
+36,0,1, Alexander Oskar Holverson,male,42.0,1,0,113789,52.0,,S
+660,0,1, Arthur Webster Newell,male,58.0,0,2,35273,113.275,D48,C
+790,0,1, Benjamin Guggenheim,male,46.0,0,0,PC 17593,79.2,B82 B84,C
+28,0,1, Charles Alexander Fortune,male,19.0,3,2,19950,263.0,C23 C25 C27,S
+156,0,1, Charles Duane Williams,male,51.0,0,1,PC 17597,61.3792,,C
+600,1,1, Cosmo Edmund (""Mr Morgan"") Duff Gordon,male,49.0,1,0,PC 17485,56.9292,A20,C
+749,0,1, Daniel Warner Marvin,male,19.0,1,0,113773,53.1,D30,S
+485,1,1, Dickinson H Bishop,male,25.0,1,0,11967,91.0792,B49,C
+35,0,1, Edgar Joseph Meyer,male,28.0,1,0,PC 17604,82.1708,,C
+746,0,1, Edward Gifford Crosby,male,70.0,1,1,WE/P 5735,71.0,B22,S
+622,1,1, Edwin Nelson Jr Kimball,male,42.0,1,0,11753,52.5542,D19,S
+713,1,1, Elmer Zebley Taylor,male,48.0,1,0,19996,52.0,C126,S
+263,0,1, Emil Taussig,male,52.0,1,1,110413,79.65,E67,S
+55,0,1, Engelhart Cornelius Ostby,male,65.0,0,1,113509,61.9792,B30,C
+225,1,1, Frederick Maxfield Hoyt,male,38.0,1,0,19943,90.0,C93,S
+371,1,1, George Achilles Harder,male,25.0,1,0,11765,55.4417,E50,C
+333,0,1, George Edward Graham,male,38.0,0,1,PC 17582,153.4625,C91,S
+476,0,1, George Quincy Clifford,male,0.0,0,0,110465,52.0,A14,S
+738,1,1, Gustave J Lesurer,male,35.0,0,0,PC 17755,512.3292,B101,C
+682,1,1, Hammad Hassab,male,27.0,0,0,PC 17572,76.7292,D49,C
+378,0,1, Harry Elkins Widener,male,27.0,0,2,113503,211.5,C82,C
+63,0,1, Henry Birkhardt Harris,male,45.0,1,0,36973,83.475,C83,S
+646,1,1, Henry Sleeper Harper,male,48.0,1,0,PC 17572,76.7292,D33,C
+661,1,1, Henry William Frauenthal,male,50.0,2,0,PC 17611,133.65,,S
+93,0,1, Herbert Fuller Chaffee,male,46.0,1,0,W.E.P. 5734,61.175,E31,S
+306,1,1, Hudson Trevor Allison,male,0.92,1,2,113781,151.55,C22 C26,S
+186,0,1, Hugh Roscoe Rood,male,0.0,0,0,113767,50.0,A32,S
+138,0,1, Jacques Heath Futrelle,male,37.0,1,0,113803,53.1,C123,S
+551,1,1, John Borland Jr Thayer,male,17.0,0,2,17421,110.8833,C70,C
+699,0,1, John Borland Thayer,male,49.0,1,1,17421,110.8833,C68,C
+528,0,1, John Farthing,male,0.0,0,0,PC 17483,221.7792,C95,S
+439,0,1, Mark Fortune,male,64.0,1,4,19950,263.0,C23 C25 C27,S
+588,1,1, Maxmillian Frolicher-Stehli,male,60.0,1,1,13567,79.2,B41,C
+725,1,1, Norman Campbell Chambers,male,27.0,1,0,113806,53.1,E8,S
+125,0,1, Percival Wayland White,male,54.0,0,1,35281,77.2875,D26,S
+119,0,1, Quigg Edmond Baxter,male,24.0,0,1,PC 17558,247.5208,B58 B60,C
+103,0,1, Richard Frasar White,male,21.0,0,1,35281,77.2875,D26,S
+249,1,1, Richard Leonard Beckwith,male,37.0,1,1,11751,52.5542,D35,S
+454,1,1, Samuel L Goldenberg,male,49.0,1,0,17453,89.1042,C92,C
+374,0,1, Sante Ringhini,male,22.0,0,0,PC 17760,135.6333,,C
+337,0,1, Thomas Clinton Pears,male,29.0,1,0,113776,66.6,C2,S
+680,1,1, Thomas Drake Martinez Cardeza,male,36.0,0,1,PC 17755,512.3292,B51 B53 B55,C
+672,0,1, Thornton Davidson,male,31.0,1,0,F.C. 12750,52.0,B71,S
+7,0,1, Timothy J McCarthy,male,54.0,0,0,17463,51.8625,E46,S
+742,0,1, Tyrell William Cavendish,male,36.0,1,0,19877,78.85,C46,S
+140,0,1, Victor Giglio,male,24.0,0,0,PC 17593,79.2,B86,C
+558,0,1, Victor Robbins,male,0.0,0,0,PC 17757,227.525,,C
+506,0,1, Victor de Satode Penasco y Castellana,male,18.0,1,0,PC 17758,108.9,C65,C
+111,0,1, Walter Chamberlain Porter,male,47.0,0,0,110465,52.0,C110,S
+545,0,1, Walter Donald Douglas,male,50.0,1,0,PC 17761,106.425,C86,C
+868,0,1, Washington Augustus II Roebling,male,31.0,0,0,PC 17590,50.4958,A24,S
+446,1,1, Washington Dodge,male,4.0,0,2,33638,81.8583,A34,S
+435,0,1, William Baird Silvey,male,50.0,1,0,13507,55.9,E44,S
+98,1,1, William Bertram Greenfield,male,23.0,0,1,PC 17759,63.3583,D10 D12,C
+246,0,1, William Edward Minahan,male,44.0,2,0,19928,90.0,C78,Q
+391,1,1, William Ernest Carter,male,36.0,1,2,113760,120.0,B96 B98,S
+803,1,1, William Thornton II Carter,male,11.0,1,2,113760,120.0,B96 B98,S
